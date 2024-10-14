@@ -104,7 +104,7 @@ header {
   overflow: hidden;
 }
 .content-image {
-  background-image: url("/assets/img-content.webp");
+  background-image: url("./assets/img-content.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
