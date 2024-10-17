@@ -32,7 +32,8 @@ h1 {
   line-height: 1em;
 }
 h2 {
-  font-size: clamp(2.25rem, -0.5357rem + 5.8036vw, 4.6875rem);
+  /* font-size: clamp(2.25rem, -0.5357rem + 5.8036vw, 4.6875rem); */
+  font-size: clamp(2.25rem, 0.5357rem + 3.5714vw, 3.75rem);
   line-height: 1em;
   color: var(--solid-orchid-blue);
   margin: 1rem 0;
